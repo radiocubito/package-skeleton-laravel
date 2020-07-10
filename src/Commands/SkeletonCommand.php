@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Radiocubito\Skeleton\Commands;
 
 use Illuminate\Console\Command;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Radiocubito\Skeleton\Tests;
 
 class ExampleTest extends TestCase
 {

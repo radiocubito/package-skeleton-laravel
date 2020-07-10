@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Radiocubito\Skeleton\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use Spatie\Skeleton\SkeletonServiceProvider;
+use Radiocubito\Skeleton\SkeletonServiceProvider;
 
 class TestCase extends Orchestra
 {

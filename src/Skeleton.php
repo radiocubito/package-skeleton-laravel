@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton;
+namespace Radiocubito\Skeleton;
 
 class Skeleton
 {
